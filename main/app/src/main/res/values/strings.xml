@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Tickets</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Practica 2</string>
+    <string name="nav_header_subtitle">Jonathan.garcia@goumh.umh.es</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_tickets">Tickets</string>
+    <string name="menu_categorias">Categorias</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+
+    <string name="actionbar_list">List</string>
+    <string name="actionbar_tile">Tile</string>
+    <string name="actionbar_card">Card</string>
+    <string name="actionbar_tickets">Tickets</string>
+    <string name="actionbar_categorias">Categorias</string>
+
+    <string name="no_image_icon">Elige una imagen</string>
+
+    <string name="galeria">Galería</string>
+    <string name="camara">Cámara</string>
+
+    <string name="titulo">Título</string>
+    <string name="categoria">Categoria</string>
+    <string name="precio">Precio</string>
+    <string name="descripcion">Descripción</string>
+    <string name="nombreTicket">Nombre del ticket</string>
+    <string name="nombreCategoria">Nombre de la categoría</string>
+    <string name="addTicket">Añadir Ticket</string>
+    <string name="addCategoria">Añadir Categoria</string>
+
+    <string name="ver">Ver</string>
+    <string name="borrar">Borrar</string>
+
+
+    <string name="no_registros">No se han encontrado registros</string>
+    <string name="permisos">Los permisos sons necesarios para poder usar la aplicación</string>
+    <string name="permisos2">Para usar las funciones de la app necesitas aceptar los permisos</string>
+    <string name="permisos3">Permisos denegados</string>
+    <string name="ocr">OCR</string>
+    <string name="menu_profesor">Profesor</string>
+    <string name="menu_contactos">Contactos</string>
+    <string name="menu_developer">Developer</string>
+
+    <string name="disponible">DISPONIBLE EN PROXIMAS VERSIONES</string>
+    <string name="logo">Tickets P2</string>
+
+
+</resources>
